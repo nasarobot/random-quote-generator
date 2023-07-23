@@ -81,6 +81,7 @@ span{
 
 @media(width<700px){
   .container{
+    transform: translateY(-10vh);
     width: 90%;
     min-height: 50vh;
     padding: 2rem;
